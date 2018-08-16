@@ -4,11 +4,11 @@ Native Client (NaCl) is a sandboxing technology by Google
 
 ## Background Reading
 
+* http://research.google.com/pubs/archive/34913.pdf (research paper)
 * https://blog.golang.org/playground
 * https://github.com/golang/go/wiki/NativeClient
 * https://golang.org/misc/nacl/README
 * https://golang.org/s/go13nacl
-* http://research.google.com/pubs/archive/34913.pdf (research paper)
 
 ## Prerequisites
 
